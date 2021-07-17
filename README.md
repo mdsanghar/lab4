@@ -7,8 +7,6 @@ I have used linear regression model to predict the weight of the fish using othe
 You can go to this link: https://fishweightprediction.herokuapp.com/ and input the fish dimensions to predcit its weight.
 
 To create/modify the app you will need
-To run your own version, you can copy the files from the git repo, then make your modifications, then re-deploy it in Heroku and generate your own link. Files to modify:
-
 1-Create a model using pickle which can predict weight(In my App its named " Classifier").
 
 2-Create Flask webframe like "myflask"
